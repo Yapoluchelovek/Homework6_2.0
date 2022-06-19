@@ -1,0 +1,23 @@
+.a{
+    color: red;
+    background-color:  aliceblue;
+    font-size: 50px;
+    display: block; 
+    margin: 0 auto;
+}
+.a_img{
+    width: 750px;
+    height: 325x;
+    border-radius: 25px;
+    border: 5px solid darkred;
+}
+.a_p{
+    color: brown;
+    font-size: 30px;
+}
+.b_img{
+    width: 740px;
+    height: 480px;
+    border-radius: 25px;
+    border: 5px solid red;
+}
